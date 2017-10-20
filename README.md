@@ -31,24 +31,26 @@ I contributed to the organization of studio catalogues and the ideating of the l
 
 ## Education
 
-####Makers Academy (October 2017 – January 2018)
+#### Makers Academy (October 2017 – January 2018)
 -
 -
 -
 
 #### Central Saint Martins (October 2014- July 2017)
-**Graphic Design & Communication BA (HONS): 2:1**
+*Graphic Design & Communication BA (HONS): 2:1*
 - Head Degree Show Coordinator of the annual CSM Degree Show (Year: 2017)
 - Voted Student rep twice based on a speech about Doritos Chips
 
 #### Neuro Linguistic Programming WorldWide (September 2011)
-**Certified Practitioner of NLP**
+*Certified Practitioner of NLP*
 A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
+
 
 ## In my spare time
 - I create GIF collections on my Instagram (thatdania)
 - I document parts of my life whether it’s through blogging or Youtube videos
 - I am finding new things to try or places to go, as I am an explorer at heart.
+
 
 ## Where to look
 - [Website]
