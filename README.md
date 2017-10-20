@@ -23,10 +23,12 @@ Other Technical Skills:
 ## Experience
 #### Petrie Inventory & Juliette  (March 2016 – May 2016)
 *Videographer-* → http://www.petrieinventory.com/keiko-nishiyama/x
+
 I had the opportunity to shoot and edit film interviews about fashion designers Keiko Nishiyama and Edeline Lee for London and Paris fashion week.
 
 #### Tafeel Graphics (June 2013 – July 2013)
 *Graphic Designer*
+
 I contributed to the organization of studio catalogues and the ideating of the logo proposal for client, Cottage Chicken.
 
 ## Education
@@ -36,13 +38,13 @@ I contributed to the organization of studio catalogues and the ideating of the l
 -
 -
 
-#### Central Saint Martins (October 2014- July 2017)
-*Graphic Design & Communication BA (HONS): 2:1*
+#### Central Saint Martins (October 2014- July 2017)  
+  Graphic Design & Communication BA (HONS): 2:1
 - Head Degree Show Coordinator of the annual CSM Degree Show (Year: 2017)
 - Voted Student rep twice based on a speech about Doritos Chips
 
 #### Neuro Linguistic Programming WorldWide (September 2011)
-*Certified Practitioner of NLP*
+Certified Practitioner of NLP
 A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
 
 
