@@ -1,7 +1,9 @@
 ## Dania Mah
 I’m that Dania, logically and literally. I am that Dania, out of many Danias’ who has broke the Asian stereotype and thus, explores the world for her passion of animation & design. I am also that Dania, branded as “thatdania”, an onward GIF scientist / animator / Youtuber / the future slashes will go on…
 
-My endearing drive and energetic behavior inspires my mantra of breaking conventions alongside uniting others. Whether it is proving my belief of the GIF’S future through collaborative projects or forming a first SOP for the infamous Central Saint Martin’s Degree show, my approach is always how can we achieve something more than we could do individually.
+My endearing drive and energetic behavior inspires my mantra of breaking conventions alongside uniting others. Whether it is proving my belief of the GIF’S future through collaborative projects or forming a first SOP for the infamous Central Saint Martin’s Degree show, my approach is always
+
+> "how can we achieve something more than we could do individually"
 
 Although I am a recent graduate of CSM and currently studying code at Makers Academy, I wish to be part of a design studio possibly where code is being fleshed out alongside with it. I hope to work in a flourishing environment where commonly, everyone wants to break a convention.
 
@@ -45,7 +47,7 @@ I contributed to the organization of studio catalogues and the ideating of the l
 
 #### Neuro Linguistic Programming WorldWide (September 2011)
   *Certified Practitioner of NLP*
-  
+
   A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
 
 
