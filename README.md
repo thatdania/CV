@@ -44,7 +44,8 @@ I contributed to the organization of studio catalogues and the ideating of the l
 - Voted Student rep twice based on a speech about Doritos Chips
 
 #### Neuro Linguistic Programming WorldWide (September 2011)
-  *Certified Practitioner of NLP: A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
+  *Certified Practitioner of NLP*
+  - A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
 
 
 ## In my spare time
