@@ -3,9 +3,9 @@ I’m that Dania, logically and literally. I am that Dania, out of many Danias�
 
 My endearing drive and energetic behavior inspires my mantra of breaking conventions alongside uniting others. Whether it is proving my belief of the GIF’S future through collaborative projects or forming a first SOP for the infamous Central Saint Martin’s Degree show, my approach is always
 
-> "how can we achieve something more than we could do individually"
+> "how can we achieve something more compared to if we each did it individually"
 
-Although I am a recent graduate of CSM and currently studying code at Makers Academy, I wish to be part of a design studio possibly where code is being fleshed out alongside with it. I hope to work in a flourishing environment where commonly, everyone wants to break a convention.
+Although I am a recent graduate of CSM and currently studying code at Makers Academy, I wish to be part of a design studio possibly where code is being fleshed out alongside with it. I hope to work in a flourishing environment where commonly, **everyone wants to break a convention.**
 
 ## What I am known for
 
@@ -31,7 +31,7 @@ I had the opportunity to shoot and edit film interviews about fashion designers 
 #### Tafeel Graphics (June 2013 – July 2013)
 *Graphic Designer*
 
-I contributed to the organization of studio catalogues and the ideating of the logo proposal for client, Cottage Chicken.
+I assisted in sorting catalogues and the ideating of the logo proposal for client, Cottage Chicken.
 
 ## Education
 
