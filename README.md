@@ -23,15 +23,14 @@ Other Technical Skills:
 ## Experience
 Petrie Inventory & Juliette  (March 2016 – May 2016)
 *Videographer → http://www.petrieinventory.com/keiko-nishiyama/*
-I had the opportunity to shoot and edit film interviews about fashion designers
-Keiko Nishiyama and Edeline Lee for London and Paris fashion week.
+I had the opportunity to shoot and edit film interviews about fashion designers Keiko Nishiyama and Edeline Lee for London and Paris fashion week.
 
 Tafeel Graphics (June 2013 – July 2013)
 *Graphic Designer*
-I contributed to the organization of studio catalogues and the ideating of the
-logo proposal for client, Cottage Chicken.
+I contributed to the organization of studio catalogues and the ideating of the logo proposal for client, Cottage Chicken.
 
 ##Education
+
 Makers Academy (October 2017 – January 2018)
 -
 -
