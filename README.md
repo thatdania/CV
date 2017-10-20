@@ -1,10 +1,11 @@
 ##Dania Mah##
+
 I'm that Dania logically and literally. I am that Dania, out of many Danias’
 who has broke the Asian stereotype and thus, explores the world for her passion
 of animation & design. I am also that Dania, branded as “thatdania”, an onward
  GIF scientist / animator / Youtuber / the future slashes will go on…
 
-My endearing drive and energetic behaviour inspires my mantra of breaking
+ My endearing drive and energetic behaviour inspires my mantra of breaking
 conventions alongside uniting others. Whether it is proving my belief of the
 GIF’S future through collaborative projects or forming a first SOP for the
 infamous Central Saint Martin’s Degree show, my approach is always about
@@ -41,12 +42,12 @@ I contributed to the organization of studio catalogues and the ideating of the
 logo proposal for client, Cottage Chicken.
 
 ##Education##
-**Makers Academy (October 2017 – January 2018)**
+####Makers Academy (October 2017 – January 2018)####
 -
 -
 -
 
-**Central Saint Martins (October 2014- July 2017)**
+####Central Saint Martins (October 2014- July 2017)**
 *Graphic Design & Communication BA (HONS): 2:1*
 - Head Degree Show Coordinator of the annual CSM Degree Show (Year: 2017)
 - Voted Student rep twice based on a speech about Doritos Chips
@@ -66,4 +67,4 @@ and patterns in human behavior in a working-force community.
 [Github](https://github.com/thatdania_
 [Instagram](https://www.instagram.com/thatdania/)
 [Blog]
-[Youtube](https://www.youtube.com/user/DreamerDans)
+[Youtube]https://www.youtube.com/user/DreamerDans)
