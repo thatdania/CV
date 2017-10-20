@@ -39,12 +39,12 @@ I contributed to the organization of studio catalogues and the ideating of the l
 -
 
 #### Central Saint Martins (October 2014- July 2017)  
-  Graphic Design & Communication BA (HONS): 2:1
+  *Graphic Design & Communication BA (HONS): 2:1*
 - Head Degree Show Coordinator of the annual CSM Degree Show (Year: 2017)
 - Voted Student rep twice based on a speech about Doritos Chips
 
 #### Neuro Linguistic Programming WorldWide (September 2011)
-Certified Practitioner of NLP
+  *Certified Practitioner of NLP*
 A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
 
 
