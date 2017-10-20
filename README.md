@@ -45,7 +45,7 @@ I contributed to the organization of studio catalogues and the ideating of the l
 
 #### Neuro Linguistic Programming WorldWide (September 2011)
   *Certified Practitioner of NLP*
-  - A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
+  A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
 
 
 ## In my spare time
