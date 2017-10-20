@@ -32,7 +32,6 @@ I contributed to the organization of studio catalogues and the ideating of the
 logo proposal for client, Cottage Chicken.
 
 ##Education
-
 ####Makers Academy (October 2017 – January 2018)
 -
 -
@@ -45,15 +44,16 @@ logo proposal for client, Cottage Chicken.
 
 ####Neuro Linguistic Programming WorldWide (September 2011)
 *Certified Practitioner of NLP*
-A twelve-day course on learning how the language of the brain creates programs
-and patterns in human behavior in a working-force community.
+A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
 
 ##In my spare time
+
 - I create GIF collections on my Instagram (thatdania)
 - I document parts of my life whether it’s through blogging or Youtube videos
 - I am finding new things to try or places to go, as I am an explorer at heart.
 
 ##Where to look
+
 [Website]
 [Github](https://github.com/thatdania_
 [Instagram](https://www.instagram.com/thatdania/)
