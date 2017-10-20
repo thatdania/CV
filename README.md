@@ -1,5 +1,5 @@
-##Dania Mah
-**I'm that Dania** logically and literally. I am that Dania, out of many Danias’
+##Dania Mah##
+I'm that Dania logically and literally. I am that Dania, out of many Danias’
 who has broke the Asian stereotype and thus, explores the world for her passion
 of animation & design. I am also that Dania, branded as “thatdania”, an onward
  GIF scientist / animator / Youtuber / the future slashes will go on…
@@ -63,7 +63,7 @@ and patterns in human behavior in a working-force community.
 
 ##Where to look##
 [Website]
-[Github]: https://github.com/thatdania
-[Instagram]: https://www.instagram.com/thatdania/
+[Github](https://github.com/thatdania_
+[Instagram](https://www.instagram.com/thatdania/)
 [Blog]
-[Youtube]: https://www.youtube.com/user/DreamerDans
+[Youtube](https://www.youtube.com/user/DreamerDans)
