@@ -15,19 +15,21 @@ Skill 3: Venturesome
 
 
 Other Technical Skills:
-Adobe Suite (Illustrator, After Effects, InDesign, Photoshop, Premiere, Lightroom, XD)
-Stop Motion (Dragon Frame, Rostrum, Rotroscoping)
-[Coding, Ruby]
-Google (Word, Excel, Slides, Drive)
+- Adobe Suite (Illustrator, After Effects, InDesign, Photoshop, Premiere, Lightroom, XD)
+- Stop Motion (Dragon Frame, Rostrum, Rotroscoping)
+- [Coding, Ruby]
+- Google (Word, Excel, Slides, Drive)
 
 ## Experience
 Petrie Inventory & Juliette  (March 2016 – May 2016)
 *Videographer → http://www.petrieinventory.com/keiko-nishiyama/*
+
 I had the opportunity to shoot and edit film interviews about fashion designers
 Keiko Nishiyama and Edeline Lee for London and Paris fashion week.
 
 Tafeel Graphics (June 2013 – July 2013)
 *Graphic Designer*
+
 I contributed to the organization of studio catalogues and the ideating of the
 logo proposal for client, Cottage Chicken.
 
