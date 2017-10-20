@@ -29,31 +29,31 @@ Tafeel Graphics (June 2013 – July 2013)
 *Graphic Designer*
 I contributed to the organization of studio catalogues and the ideating of the logo proposal for client, Cottage Chicken.
 
-##Education
+## Education
 
 Makers Academy (October 2017 – January 2018)
 -
 -
 -
 
-####Central Saint Martins (October 2014- July 2017)
+#### Central Saint Martins (October 2014- July 2017)
 Graphic Design & Communication BA (HONS): 2:1
 - Head Degree Show Coordinator of the annual CSM Degree Show (Year: 2017)
 - Voted Student rep twice based on a speech about Doritos Chips
 
-####Neuro Linguistic Programming WorldWide (September 2011)
+#### Neuro Linguistic Programming WorldWide (September 2011)
 Certified Practitioner of NLP
 A twelve-day course on learning how the language of the brain creates programs and patterns in human behaviour in a working-force community.
 
-##In my spare time
+## In my spare time
 - I create GIF collections on my Instagram (thatdania)
 - I document parts of my life whether it’s through blogging or Youtube videos
 - I am finding new things to try or places to go, as I am an explorer at heart.
 
 
-##Where to look
+## Where to look
 - [Website]
-- [Github](https://github.com/thatdania_
+- [Github](https://github.com/thatdania_)
 - [Instagram](https://www.instagram.com/thatdania/)
 - [Blog]
-- [Youtube]https://www.youtube.com/user/DreamerDans)
+- [Youtube](https://www.youtube.com/user/DreamerDans)
