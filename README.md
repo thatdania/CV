@@ -61,5 +61,5 @@ I assisted in sorting catalogues and the ideating of the logo proposal for clien
 - [Website]
 - [Github](https://github.com/thatdania_)
 - [Instagram](https://www.instagram.com/thatdania/)
-- [Blog]
+- [Blog](https://medium.com/@thatdania)
 - [Youtube](https://www.youtube.com/user/DreamerDans)
