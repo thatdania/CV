@@ -1,5 +1,5 @@
 
-<center> <h1>Dania Mah</h1> </center>
+<center style="text-align:center"> <h1>Dania Mah</h1> </center>
 
 [Who Am I?](#dania-mah) | [Skills](#what-i-am-known-for) | [Experience](#experience) | [Education](#education) | [Interest](#in-my-spare-time)| [Social Media](#find-me-at)
 
