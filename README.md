@@ -44,7 +44,8 @@ stepped up to be the project manager for the community’s show.I
 gathered a head team of students to delegate tasks, documented
 all the meetings, motivated for progress and solved problems for
 each team and developed a strong “communicator role” between the
-staff and students.
+staff and students. The whole experience challenged me to drive for
+roles I had never done before.
 
 **Venturesome**
 
@@ -54,8 +55,8 @@ an important change. Teams tackled topics such as fighting against
 fake news or filtering politics. However, my team’s idea was to
 make an app that protected one’s identity and actions when one
 was drunk. As I contributed the idea, creatively pushed my team
-to create and sell the idea, I got those from the BBC surprisingly
-loved the app.
+to execute the idea and sell the idea, the coaches from the BBC 
+surprisingly loved the app and thought the overall app was a success.
 
 **Fast Learner & “Do-er”**
 
