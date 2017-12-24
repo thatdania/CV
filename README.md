@@ -1,6 +1,4 @@
-<h1 align="center">
- Dania Mah 🌺
- </h1>
+# Dania Mah 🌺
  
 [Who Am I?](#I'm-that-Dania) | [Skills](#what-i-am-known-for) | [Experience](#experience) | [Education](#education) | [Interest](#in-my-spare-time)| [Social Media](#find-me-here)
 
