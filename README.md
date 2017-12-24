@@ -1,15 +1,14 @@
 <h1 align="center">
- Dania Mah
-</h1>
+ Dania Mah 🌺
+ </h1>
+ 
+[Who Am I?](#I'm-that-Dania) | [Skills](#what-i-am-known-for) | [Experience](#experience) | [Education](#education) | [Interest](#in-my-spare-time)| [Social Media](#find-me-here)
 
-[Who Am I?](#i'm-that-Dania) | [Skills](#what-i-am-known-for) | [Experience](#experience) | [Education](#education) | [Interest](#in-my-spare-time)| [Social Media](#find-me-here)
-
-# I’m that Dania
-Logically and literally. I am the Dania, out of many Dania’s who
-have broken the Asian stereotype and thus, explores the world for
- her passion of animation & design. I am also that Dania, branded
- as “thatdania”, an onward GIF scientist / Animator/ Medium Blogger
- / Front-end Developer/Youtuber/ the slashes will go on.
+# I’m that Dania, logically and literally.
+I am the Dania, out of many Dania’s who have broken the Asian stereotype and 
+thus, explores the world for her passion of animation & design. I am also branded
+as “thatdania”, an onward GIF scientist / Animator/ Medium Blogger/ Front-end 
+Developer/Youtuber/ the slashes will go on.
 
 My endearing drive and energetic behaviour inspires my mantra of
 breaking conventions alongside with uniting others to do so. Whether
