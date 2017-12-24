@@ -1,6 +1,6 @@
-<p align="center">
+
 [Dania Mah](#dania-mah) | [Skills](#what-i-am-known-for) | [Experience](#experience) | [Education](#education) | [Interest](#in-my-spare-time)| [Social Media](#find-me-at)
- </p>
+
 
 # Dania Mah
 I’m that Dania, logically and literally. I am that Dania, out of many Danias’ who has broke the Asian stereotype and thus, explores the world for her passion of animation & design. I am also that Dania, branded as “thatdania”, an onward GIF scientist / Animator/ Medium Blogger/ Front-end Developer/Youtuber/ the slashes will go on. 
