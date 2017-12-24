@@ -1,7 +1,13 @@
 
-<div style="text-align: center;"> <h1>Dania Mah</h1> </div>
+<div style="text-align: center;"> 
+## Dania Mah
+</div>
 
-[Who Am I?](#dania-mah) | [Skills](#what-i-am-known-for) | [Experience](#experience) | [Education](#education) | [Interest](#in-my-spare-time)| [Social Media](#find-me-at)
+<div style="text-align: center;">
+[Who Am I?](##dania-mah) | [Skills](#what-i-am-known-for) | [Experience](#experience) | [Education](#education) | [Interest](#in-my-spare-time)| [Social Media](#find-me-at)
+</div>
+
+<br>
 
 
 
