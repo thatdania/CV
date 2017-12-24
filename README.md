@@ -1,6 +1,6 @@
-[Dania Mah](## dania-mah) | [Skills](## what-i-am-known-for) | [Experience](## Experience) | [Education](## Education) | [Social Media](## Find me at)
+[Dania Mah](# dania-mah) | [Skills](# what-i-am-known-for) | [Experience](## Experience) | [Education](## Education) | [Social Media](## Find me at)
 
-## Dania Mah
+# Dania Mah
 I’m that Dania, logically and literally. I am that Dania, out of many Danias’ who has broke the Asian stereotype and thus, explores the world for her passion of animation & design. I am also that Dania, branded as “thatdania”, an onward GIF scientist / Animator/ Medium Blogger/ Front-end Developer/Youtuber/ the slashes will go on. 
 
 My endearing drive and energetic behavior inspires my mantra of breaking conventions alongside uniting others. Whether it is proving my belief of the GIF’S future through collaborative projects or forming a first SOP for the infamous Central Saint Martin’s Degree show, my approach is always
