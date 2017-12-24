@@ -2,6 +2,7 @@
   Dania Mah 🌺
 </h1>
 
+<a href="#">[Who am I?](#i'm-that-dania)</a> |
 <a href="#">[Skills](#what-i-am-known-for)</a> |
 <a href="#">[Experience](#experience)</a> |
 <a href="#">[Education](#education)</a> |
