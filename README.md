@@ -1,3 +1,5 @@
+[Dania Mah](## Who Am I) | [Skills](## Skills) | [Experience](## Experience) | [Education](## Education) | [Social Media](## Find me at)
+
 ## Dania Mah
 I’m that Dania, logically and literally. I am that Dania, out of many Danias’ who has broke the Asian stereotype and thus, explores the world for her passion of animation & design. I am also that Dania, branded as “thatdania”, an onward GIF scientist / Animator/ Medium Blogger/ Front-end Developer/Youtuber/ the slashes will go on. 
 
@@ -57,7 +59,7 @@ I assisted in sorting catalogues and the ideating of the logo proposal for clien
 - I am finding new things to try or places to go, as I am an explorer at heart.
 
 
-## Where to look
+## Find me at
 - [Website]
 - [Github](https://github.com/thatdania_)
 - [Instagram](https://www.instagram.com/thatdania/)
