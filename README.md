@@ -1,6 +1,12 @@
-# Dania Mah 🌺
- 
-[Who Am I?](#I'm-that-Dania) | [Skills](#what-i-am-known-for) | [Experience](#experience) | [Education](#education) | [Interest](#in-my-spare-time)| [Social Media](#find-me-here)
+<h1 align="center">
+  Dania Mah 🌺
+</h1>
+
+<a href="#">[Skills](#what-i-am-known-for)</a> |
+<a href="#">[Experience](#experience)</a> |
+<a href="#">[Education](#education)</a> |
+<a href="#">[Interest](#in-my-spare-time)</a> |
+<a href="#">[Social Media](#find-me-here)</a> 
 
 # I’m that Dania, logically and literally.
 I am the Dania, out of many Dania’s who have broken the Asian stereotype and 
