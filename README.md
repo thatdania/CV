@@ -34,13 +34,13 @@ I hope to work in a flourishing environment where commonly
 
 **Visionary**
 
-In progress of curating the CSM’s Degree Show, I developed a strong
+In progress of curating the CSM’s Degree Show, I had this strong
 vision of breaking the convention that all four pathways in Graphic
-Design should be segregated and not have an equal say. It developed
-my ability to lead the curation for the show, gathering 20 students
+Design should be equally contribute and be displayed in the show. This made me
+take on the curation role which I had never done, gather 20 students
 from all pathways in my tiny dorm room to strategise and negotiate
-with how the show should be displayed so that majority of the 
-community could be expressed equally in the show.
+with how the show should be displayed and how majority of the 
+community could help and be expressed equally in the show.
 
 **Self-Starter**
 
