@@ -36,11 +36,11 @@ I hope to work in a flourishing environment where commonly
 
 In progress of curating the CSM’s Degree Show, I had this strong
 vision of breaking the convention that all four pathways in Graphic
-Design should be equally contribute and be displayed in the show. This made me
-take on the curation role which I had never done, gather 20 students
-from all pathways in my tiny dorm room to strategise and negotiate
-with how the show should be displayed and how majority of the 
-community could help and be expressed equally in the show.
+Design should be equally contribute and be displayed in the show. This bravely made me
+take on the curation role, a role I hadn't done by gathering 20 students
+from all pathways in my tiny dorm room. I lead the team to strategise how the show 
+should be displayed and how majority of the community could help and 
+be expressed equally in the show.
 
 **Self-Starter**
 
@@ -49,8 +49,8 @@ stepped up to be the project manager for the community’s show.I
 gathered a head team of students to delegate tasks, documented
 all the meetings, motivated for progress and solved problems for
 each team and developed a strong “communicator role” between the
-staff and students. The whole experience challenged me to drive for
-roles I had never done before.
+staff and students. The whole experience challenged me to adapt to
+jobs I hadn't done and drove me to do whatever it takes to do them sucessfully.
 
 **Venturesome**
 
