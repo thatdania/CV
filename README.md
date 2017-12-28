@@ -39,8 +39,8 @@ vision of breaking the convention that all four pathways in Graphic
 Design should be equally contribute and be displayed in the show. This bravely made me
 take on the curation role, a role I hadn't done by gathering 20 students
 from all pathways in my tiny dorm room. I lead the team to strategise how the show 
-should be displayed and how majority of the community could help and 
-be expressed equally in the show.
+should be curated and how majority of the community could participate to help effectively with
+the show.
 
 **Self-Starter**
 
