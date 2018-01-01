@@ -72,7 +72,7 @@ On the 9th week at Makers Academy, my team had the challenge of building a Battl
 
 **Technical Skills:**
 - Adobe Suite (Illustrator, After Effects, InDesign, Photoshop, Premiere, Lightroom, XD)
-- Coding (Javascript, CSS, HTML, basics of REACT, Ruby, SQL)
+- Coding (Javascript, Jquery, CSS, SASS, HTML, basics of REACT, Ruby, SQL)
 - Stop Motion (Dragon Frame, Rostrum, Rotroscoping)
 - Google (Word, Excel, Slides, Drive)
 
