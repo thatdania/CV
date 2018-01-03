@@ -2,33 +2,31 @@
   Dania Mah 🌺
 </h1>
 
-<a href="#">[Who am I?](#i'm-that-dania)</a> |
 <a href="#">[Skills](#what-i-am-known-for)</a> |
+<a href="#">[Projects](#what-i-am-known-for)</a> |
 <a href="#">[Experience](#experience)</a> |
 <a href="#">[Education](#education)</a> |
 <a href="#">[Interest](#in-my-spare-time)</a> |
 <a href="#">[Social Media](#find-me-here)</a> 
+***
 
 # I’m that Dania, logically and literally.
-I am the Dania, out of many Dania’s who have broken the Asian stereotype and 
-thus, explores the world for her passion of animation & design. I am also branded
-as “thatdania”, an onward GIF scientist / Animator/ Medium Blogger/ Front-end 
-Developer/Youtuber/ the slashes will go on.
 
-My endearing drive and energetic behaviour inspires my mantra of
-breaking conventions alongside with uniting others to do so. Whether
-it is indulging my belief of how GIFS are the trending future of graphic
-design, forming the first ‘Standard Operating Procedure’ of how to run
-the infamous Central Saint Martins’s Degree Show or exploring the
-possibilities of design in the tech world, my approach below, always remains.
+I'm thatDania, logically and literally. I'm the Dania, out of many Dania's who ventured out of Malaysia 
+to discover her passions for design and technology. I'm also "thatdania" the brand, who is a Web Developer, 
+Animator, Designer, Hackernoon Blogger and GIF Scientist.
 
-> ~"What more conventions or limits can we break together than if we did it alone?"
+My endearing drive and energetic behaviour fuels my nature of an explorer. Whether it is diving deep to learn
+new technologies, leading 150 students of the infamous Central Saint Martin's Degree Show or indulging others, 
+including myself that GIFS are the trending future of graphic design, this mindset is my secret to these enriching 
+accomplishments as given any explorer needs the following qualities. To be constantly curious, unafraid of venturing
+into the unknown and most importantly, to be proactive with discovering what I'm passionate about.
 
-Although I am a recent CSM graduate and currently studying at
-Makers Academy, I wish to be part of a community where design
-and code are simultaneously being fleshed out together.
-I hope to work in a flourishing environment where commonly
-**everyone wants to break a convention.**
+Although I am working to be a Web Developer whilst training at Makers Academy, I am on this ongoing journey of 
+discovering the possibilites design/animation has in tech. I wish to be part of a community where design and 
+code are simultaneously fleshed out together and in a flourishing enviroment where everyone, **is an explorer.**
+
+***
 
 ## What I am known for
 
@@ -69,13 +67,20 @@ On the 9th week at Makers Academy, my team had the challenge of building a Battl
  Individually, we learnt React in less than 48 hours and successfully implemented a presentable game. My contribution
  was writing React code whilst pair programming and also implementing the CSS, HTML and the design through React. You
  can explore the project [here](https://github.com/thatdania/Trangressions)
+ ***
 
 **Technical Skills:**
 - Adobe Suite (Illustrator, After Effects, InDesign, Photoshop, Premiere, Lightroom, XD)
-- Coding (Javascript, Jquery, CSS, SASS, HTML, basics of REACT, Ruby, SQL)
-- Stop Motion (Dragon Frame, Rostrum, Rotroscoping)
+- Coding Languages (Javascript, Jquery, CSS, SCSS, HTML, basics of REACT, Ruby, SQL)
+- Coding Practices (DRY, TDD, CRUD) 
 - Google (Word, Excel, Slides, Drive)
-
+***
+## Projects
+Project | Description | Technologies | Links | Testing Technologies
+---| --- | --- | --- | --- |
+Dice | A recreation of a dice rolls that tests your luck| Javascript| https://github.com/thatdania/Javascript-Dice | Jasmine 
+RPS  | A Rock Paper Scissors Challenge | Ruby |https://github.com/thatdania/rps-challenge| Rspec 
+***
 ## Experience
 #### Petrie Inventory & Juliette  (March 2016 – May 2016)
 *Videographer-* → [Petrie Inventory | Keiko Nishiyama](http://www.petrieinventory.com/keiko-nishiyama)
@@ -87,7 +92,7 @@ for London and Paris fashion week.
 #### Tafeel Graphics (June 2013 – July 2013)
 *Graphic Designer*
 I assisted in sorting catalogues and brainstorming ideas for Cottage Chicken’s logo proposal.
-
+***
 ## Education
 
 #### Makers Academy (October 2017 – January 2018)
@@ -108,12 +113,12 @@ as thriving developers.
  creates programs and patterns in human behaviour. This course was
  for the working demographic in Malaysia, which educated me on
  communication skills in different working industries.
-
+***
 ## In my spare time
 - I create GIF collections on my Instagram (thatdania)
 - I document parts of my life through blogging or Youtube videos
 - I find new things to try or places to go, as I am an explorer at heart.
-
+***
 ## Find me here
 - [Website](www.thatdania.com)
 - [Github](https://github.com/thatdania)
