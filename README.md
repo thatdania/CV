@@ -120,7 +120,7 @@ as thriving developers.
 - I find new things to try or places to go, as I am an explorer at heart.
 ***
 ## Find me here
-- [Website](www.thatdania.com)
+- [Website](https://www.thatdania.com)
 - [Github](https://github.com/thatdania)
 - [Instagram](https://www.instagram.com/thatdania)
 - [Blog](https://medium.com/@thatdania)
