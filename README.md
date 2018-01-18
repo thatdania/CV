@@ -78,6 +78,7 @@ On the 9th week at Makers Academy, my team had the challenge of building a Battl
 ## Projects
 Project | Description | Technologies | Links | Testing Technologies
 ---| --- | --- | --- | --- |
+Memomap | A travel diary of maps, memories and places | MERN stack | https://github.com/tmerrr/map-app | Mocha, Chai and Sinon  
 Dice | A recreation of a dice rolls that tests your luck| Javascript| https://github.com/thatdania/Javascript-Dice | Jasmine 
 MakersBNB | A recreation of AIRBNB | Javascript, Ruby | https://github.com/thatdania/MakersBnB | Rspec 
 RPS  | A Rock Paper Scissors Challenge | Ruby |https://github.com/thatdania/rps-challenge| Rspec 
