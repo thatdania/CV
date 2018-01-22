@@ -70,9 +70,9 @@ On the 9th week at Makers Academy, my team had the challenge of building a Battl
  ***
 
 **Technical Skills:**
-- Adobe Suite (Illustrator, After Effects, InDesign, Photoshop, Premiere, Lightroom, XD)
-- Coding Languages (Javascript, Jquery, CSS, SCSS, HTML, basics of REACT, Ruby, SQL)
+- Coding Languages (Javascript, Jquery, CSS, SCSS, HTML, REACT, basics of the MERN STACk)
 - Coding Practices (DRY, TDD, CRUD) 
+- Adobe Suite (Illustrator, After Effects, InDesign, Photoshop, Premiere, Lightroom, XD)
 - Google (Word, Excel, Slides, Drive)
 ***
 ## Projects
