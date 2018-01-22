@@ -13,18 +13,18 @@
 # I’m that Dania, logically and literally.
 
 I'm thatDania, logically and literally. I'm the Dania, out of many Dania's who ventured out of Malaysia 
-to discover her passions for design and technology. I'm also "thatdania" the brand, who is a Web Developer, 
+to discover her passions for design and technology. I'm also known as "thatdania" who is an ongoing Web Developer, 
 Animator, Designer, Hackernoon Blogger and GIF Scientist.
 
 My endearing drive and energetic behaviour fuels my nature of an explorer. Whether it is diving deep to learn
 new technologies, leading 150 students of the infamous Central Saint Martin's Degree Show or indulging others, 
 including myself that GIFS are the trending future of graphic design, this mindset is my secret to these enriching 
 accomplishments as given any explorer needs the following qualities. To be constantly curious, unafraid of venturing
-into the unknown and most importantly, to be proactive with discovering what I'm passionate about.
+into the unknown and most importantly, to be proactive with discovering what I'm passionate about (code and design).
 
-Although I am working to be a Web Developer whilst training at Makers Academy, I am on this ongoing journey of 
-discovering the possibilites design/animation has in tech. I wish to be part of a community where design and 
-code are simultaneously fleshed out together and in a flourishing enviroment where everyone, **is an explorer.**
+As I am growing to be a Web Developer, I wish to be amongst a community who values good craftmanship in code, 
+well designed applications that are focused on enhancing the user's engagement and supported learning.Ideally, I would
+like to be in a flourishing enviroment where everyone **is an explorer.**
 
 ***
 
