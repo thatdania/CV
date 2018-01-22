@@ -42,13 +42,10 @@ the show.
 
 **Self-Starter**
 
-When it was my community’s turn to host 2017 CSM’s Degree Show, I
-stepped up to be the project manager for the community’s show.I
-gathered a head team of students to delegate tasks, documented
-all the meetings, motivated for progress and solved problems for
-each team and developed a strong “communicator role” between the
-staff and students. The whole experience challenged me to adapt to
-jobs I hadn't done and drove me to do whatever it takes to do them sucessfully.
+Whilst building my final week project at Makers Acadmey, I volunteered to do additional documentation
+for our project along with designing the product. This included writing blogs about our process, 
+about how the code works, ideating the design theme, doing mock-ups of the layout and designing all the icons. 
+I played a large role for the interface and documentation for our project, MemoMap. You can explore MemoMap: [here](https://github.com/tmerrr/map-app) and the blogs: [here](https://hackernoon.com/episode-43-the-art-of-setting-up-a-mern-stack-final-project-week-d554bffe2c0e)
 
 **Venturesome**
 
@@ -58,7 +55,7 @@ an important change. Teams tackled topics such as fighting against
 fake news or filtering politics. However, my team’s idea was to
 make an app that protected one’s identity and actions when one
 was drunk. As I contributed the idea, creatively pushed my team
-to execute the idea and sell the idea, the coaches from the BBC 
+to execute the idea and took a risk, the coaches from the BBC 
 surprisingly loved the app and thought the overall app was a success.
 
 **Fast Learner & “Do-er”**
@@ -75,6 +72,7 @@ On the 9th week at Makers Academy, my team had the challenge of building a Battl
 - Adobe Suite (Illustrator, After Effects, InDesign, Photoshop, Premiere, Lightroom, XD)
 - Google (Word, Excel, Slides, Drive)
 ***
+
 ## Projects
 Project | Description | Technologies | Links | Testing Technologies
 ---| --- | --- | --- | --- |
@@ -126,5 +124,5 @@ as thriving developers.
 - [Github](https://github.com/thatdania)
 - [Instagram](https://www.instagram.com/thatdania)
 - [Blog](https://medium.com/@thatdania)
-- [Youtube](https://www.youtube.com/user/DreamerDans)
+
 
