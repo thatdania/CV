@@ -45,7 +45,7 @@ the show.
 Whilst building my final week project at Makers Acadmey, I volunteered to do additional documentation
 for our project along with designing the product. This included writing blogs about our process, 
 about how the code works, ideating the design theme, doing mock-ups of the layout and designing all the icons. 
-I played a large role for the interface and documentation for our project, MemoMap. You can explore MemoMap: [here](https://github.com/tmerrr/map-app) and the blogs: [here](https://hackernoon.com/episode-43-the-art-of-setting-up-a-mern-stack-final-project-week-d554bffe2c0e)
+I played a large role for the interface and documentation for our project, MemoMap. You can explore MemoMap: [here](https://github.com/tmerrr/memomap) and the blogs: [here](https://hackernoon.com/episode-43-the-art-of-setting-up-a-mern-stack-final-project-week-d554bffe2c0e)
 
 **Venturesome**
 
