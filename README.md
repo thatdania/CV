@@ -64,13 +64,6 @@ On the 9th week at Makers Academy, my team had the challenge of building a Battl
  Individually, we learnt React in less than 48 hours and successfully implemented a presentable game. My contribution
  was writing React code whilst pair programming and also implementing the CSS, HTML and the design through React. You
  can explore the project [here](https://github.com/thatdania/Trangressions)
- ***
-
-**Technical Skills:**
-- Coding Languages (Javascript, Jquery, CSS, SCSS, HTML, REACT, basics of the MERN STACk)
-- Coding Practices (DRY, TDD, CRUD) 
-- Adobe Suite (Illustrator, After Effects, InDesign, Photoshop, Premiere, Lightroom, XD)
-- Google (Word, Excel, Slides, Drive)
 ***
 
 ## Projects
@@ -80,6 +73,13 @@ Memomap | A travel diary of maps, memories and places | MERN stack | https://git
 Dice | A recreation of a dice rolls that tests your luck| Javascript| https://github.com/thatdania/Javascript-Dice | Jasmine 
 MakersBNB | A recreation of AIRBNB | Javascript, Ruby | https://github.com/thatdania/MakersBnB | Rspec 
 RPS  | A Rock Paper Scissors Challenge | Ruby |https://github.com/thatdania/rps-challenge| Rspec 
+ ***
+
+**Technical Skills:**
+- Coding Languages (Javascript, Jquery, CSS, SCSS, HTML, REACT, basics of the MERN STACk)
+- Coding Practices (DRY, TDD, CRUD) 
+- Adobe Suite (Illustrator, After Effects, InDesign, Photoshop, Premiere, Lightroom, XD)
+- Google (Word, Excel, Slides, Drive)
 ***
 ## Experience
 #### Petrie Inventory & Juliette  (March 2016 – May 2016)
